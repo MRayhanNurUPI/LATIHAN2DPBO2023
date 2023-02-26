@@ -16,6 +16,8 @@ Program ini menggunakan 4 kelas yakni:
 Hubungan antarkelas pada program ini dapat dilihat melalui Class Diagram berikut.
 ![alt-text](https://github.com/MRayhanNurUPI/LATIHAN2DPBO2023/blob/main/ClassDiagram-Lat2DPBO-Multilevel_Inheritance%20(1).png)
 
-## Penjelasan Kelas
-### Class Human
-    Kelas ini merupakan parent-class dari kelas SivitasAkademik serta grand-parent-class dari kelas Mahasiswa. Sehingga atribut-atribut dan method-method yang berada         dalam kelas ini akan 'diwariskan' sehingga dapat digunakan serta melekat kepada dua kelas turunannya. 
+## Alur Program
+Program ini memiliki alur perjalanan mulai dari instansiasi objek dari kelas Mahasiswa, mengisi nilai atribut-atribut dari objek Mahasiswa yang diinstansiasi sebelumnya menggunakan Setter methods, memasukkan objek tersebut ke dalam list, hingga berhasil menampilkan data beberapa objek Mahasiswa di dalam list dengan menggunakan Getter methods.
+
+## Dokumentasi Program Saat Dijalankan
+![alt-text](https://github.com/MRayhanNurUPI/LATIHAN2DPBO2023/blob/main/CPP/screenshot/Screenshot%20Program%20Latihan%202%20-%20Multilevel%20Inheritance%20(CPP).jpg)
